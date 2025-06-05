@@ -49,4 +49,4 @@ except:
 
 
 ## RESULT:
-Thus, the python program to check the number is Armstrong number or not implemented and the output is verified successfully.
+Thus, the python program to Binary Search implemented and the output is verified successfully.
